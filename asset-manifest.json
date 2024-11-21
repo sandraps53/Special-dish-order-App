@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Special-dish-order-App/static/css/main.5ba5e2ae.css",
+    "main.js": "/Special-dish-order-App/static/js/main.1903a2ff.js",
+    "static/js/453.a24e3b8d.chunk.js": "/Special-dish-order-App/static/js/453.a24e3b8d.chunk.js",
+    "index.html": "/Special-dish-order-App/index.html",
+    "main.5ba5e2ae.css.map": "/Special-dish-order-App/static/css/main.5ba5e2ae.css.map",
+    "main.1903a2ff.js.map": "/Special-dish-order-App/static/js/main.1903a2ff.js.map",
+    "453.a24e3b8d.chunk.js.map": "/Special-dish-order-App/static/js/453.a24e3b8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba5e2ae.css",
+    "static/js/main.1903a2ff.js"
+  ]
+}
